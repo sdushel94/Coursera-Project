@@ -1,0 +1,74 @@
+h1 {
+   text-align: center;
+}
+
+#GiantsYear {
+   background: rgb(160,160,160);
+   width: 300px;
+   margin: 20px; 20px; 20px; 20px;
+   border: 1px solid black; 
+   padding: 10px; 
+   height: 150px;
+   position: absolute;
+   top: 100px;
+   left: 10px;
+}
+
+#Giants {
+   background: orange;
+   width: 200px;
+   margin: 20px;20px; 20px; 20px;
+   border: 1px solid black;
+   padding: 10px;
+   height: 30px;
+   position: absolute;
+   top: 100px;
+   left: 80px;
+}
+
+#DodgersYear {
+   background: rgb(160,160,160);
+   width: 300px;
+   margin: 20px; 20px; 20px; 20px;
+   border: 1px solid black; 
+   padding: 10px; 
+   height: 150px;
+   position: absolute;
+   top: -150px; 
+   left: 340px;
+}
+
+#Dodgers {
+   background: blue;
+   width: 200px;
+   margin: 20px;20px; 20px; 20px;
+   border: 1px solid black;
+   padding: 10px;
+   height: 30px;
+   position: absolute;
+   top: 100px;
+   left: 80px;
+}
+
+#BravesYear {
+   background: rgb(160,160,160);
+   width: 300px;
+   margin: 20px; 20px; 20px; 20px;
+   border: 1px solid black; 
+   padding: 10px; 
+   height: 150px;
+   position: absolute; 
+   top: -150px;
+   left: 340px; 
+}
+#Braves {
+   background: red;
+   width: 200px;
+   margin: 20px;20px; 20px; 20px;
+   border: 1px solid black;
+   padding: 10px;
+   height: 30px;
+   position: absolute;
+   top: 100px;
+   left: 80px;
+}
